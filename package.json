@@ -1,0 +1,46 @@
+{
+  "name": "a3-ainex-homepage",
+  "version": "1.0.0",
+  "description": "A3 Security - AiNex & AgentForge Homepage",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "14.2.20",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@react-three/fiber": "^8.17.10",
+    "@react-three/drei": "^9.117.0",
+    "three": "^0.169.0",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.460.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.4",
+    "class-variance-authority": "^0.7.1",
+    "zustand": "^5.0.1",
+    "react-hook-form": "^7.53.2",
+    "zod": "^3.23.8",
+    "@hookform/resolvers": "^3.9.1",
+    "next-intl": "^3.23.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/three": "^0.169.0",
+    "typescript": "^5.6.3",
+    "tailwindcss": "^3.4.15",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.20"
+  },
+  "engines": {
+    "node": ">=18.17.0"
+  }
+}

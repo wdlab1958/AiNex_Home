@@ -1,0 +1,16 @@
+{
+  "name": "A3 AiNex",
+  "short_name": "AiNex",
+  "description": "데이터 주권 시대의 안전한 AI 전환, 당신의 멀티 에이전트 파트너",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0b0d",
+  "theme_color": "#4f91ff",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
