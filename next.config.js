@@ -1,11 +1,17 @@
 /** @type {import('next').NextConfig} */
+const isGithubPages = process.env.GITHUB_ACTIONS === 'true';
+
 const nextConfig = {
   reactStrictMode: true,
+  output: isGithubPages ? 'export' : undefined,
+  basePath: isGithubPages ? '/AiNex_Home' : '',
+  assetPrefix: isGithubPages ? '/AiNex_Home/' : '',
 
   // 이미지 최적화 설정
   images: {
     domains: ['localhost'],
     formats: ['image/avif', 'image/webp'],
+    unoptimized: isGithubPages,
   },
 
   // 실험적 기능
