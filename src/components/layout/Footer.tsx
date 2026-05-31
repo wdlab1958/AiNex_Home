@@ -14,7 +14,7 @@ export function Footer() {
               </div>
               <div>
                 <div className="font-bold text-lg">AiNex</div>
-                <div className="text-xs text-slate-400">by A3 Security</div>
+                <div className="text-xs text-slate-400">by WDLAB@2023-2026</div>
               </div>
             </Link>
             <p className="text-sm text-slate-400 mb-4">
@@ -136,7 +136,7 @@ export function Footer() {
                 rel="noopener noreferrer"
                 className="hover:text-white transition-colors"
               >
-                www.a3security.com
+                www.wdlab.com
               </a>
               <span>|</span>
               <span>{siteConfig.company.email}</span>

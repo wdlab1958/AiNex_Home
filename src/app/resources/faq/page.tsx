@@ -21,7 +21,7 @@ const FaqPage = () => {
         // General FAQs
         {
             question: "AiNex는 어떤 회사인가요?",
-            answer: "AiNex는 A3 Security의 AI 전문 사업부로, 26년간 축적된 보안 컨설팅 노하우와 최신 AI 기술을 결합하여 기업의 안전하고 효과적인 AI 전환을 지원합니다. ISO 42001 기반 AI 거버넌스, 멀티 에이전트 플랫폼, 맞춤형 AI 솔루션을 제공합니다.",
+            answer: "AiNex는 WDLAB@2023-2026의 AI 전문 사업부로, 26년간 축적된 보안 컨설팅 노하우와 최신 AI 기술을 결합하여 기업의 안전하고 효과적인 AI 전환을 지원합니다. ISO 42001 기반 AI 거버넌스, 멀티 에이전트 플랫폼, 맞춤형 AI 솔루션을 제공합니다.",
             category: "General"
         },
         {
@@ -117,7 +117,7 @@ const FaqPage = () => {
         },
         {
             question: "ISO 인증을 보유하고 있나요?",
-            answer: "A3 Security는 ISO 27001(정보보안), ISO 27701(개인정보보호) 인증을 보유하고 있으며, AiNex 플랫폼은 ISO/IEC 42001(AI 관리 시스템) 표준에 따라 설계되었습니다. 고객사의 ISO 42001 인증 취득도 지원합니다.",
+            answer: "WDLAB@2023-2026는 ISO 27001(정보보안), ISO 27701(개인정보보호) 인증을 보유하고 있으며, AiNex 플랫폼은 ISO/IEC 42001(AI 관리 시스템) 표준에 따라 설계되었습니다. 고객사의 ISO 42001 인증 취득도 지원합니다.",
             category: "Security"
         },
         {

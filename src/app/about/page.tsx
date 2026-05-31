@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: '회사 소개',
-  description: 'A3 Security는 26년 전통의 정보보호 컨설팅 전문기업입니다.',
+  description: 'WDLAB@2023-2026는 26년 전통의 정보보호 컨설팅 전문기업입니다.',
 };
 
 export default function AboutPage() {
@@ -17,7 +17,7 @@ export default function AboutPage() {
             AI 전환의 새로운 패러다임
           </h1>
           <p className="text-xl text-slate-400 mb-8">
-            A3 Security는 2000년 설립 이후 26년간 대한민국 정보보호 산업을 선도해 왔습니다.
+            WDLAB@2023-2026는 2000년 설립 이후 26년간 대한민국 정보보호 산업을 선도해 왔습니다.
             이제 AI 전환(AX) 시대를 맞아 새로운 도전을 시작합니다.
           </p>
         </div>
@@ -29,7 +29,7 @@ export default function AboutPage() {
         <div className="max-w-3xl mx-auto">
           <div className="space-y-8">
             {[
-              { year: '2000', event: 'A3 Security 설립' },
+              { year: '2000', event: 'WDLAB@2023-2026 설립' },
               { year: '2005', event: '정보보안 컨설팅 사업 본격화' },
               { year: '2010', event: '금융권 보안 컨설팅 시장 진출' },
               { year: '2015', event: '공공기관 보안 진단 사업 확대' },

@@ -52,7 +52,7 @@ export function Header() {
             </div>
             <div className="hidden sm:block">
               <div className="font-bold text-lg">AiNex</div>
-              <div className="text-xs text-slate-400">by A3 Security</div>
+              <div className="text-xs text-slate-400">by WDLAB@2023-2026</div>
             </div>
           </Link>
 

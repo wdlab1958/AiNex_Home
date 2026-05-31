@@ -291,7 +291,7 @@ const PartnersPage = () => {
                         </span>
                     </h1>
                     <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-                        A3 Security와 함께 안전한 AI 생태계를 만들어갈 파트너를 찾습니다. 기술, 컨설팅, 솔루션 등 다양한 분야에서 협력을 기다립니다.
+                        WDLAB@2023-2026와 함께 안전한 AI 생태계를 만들어갈 파트너를 찾습니다. 기술, 컨설팅, 솔루션 등 다양한 분야에서 협력을 기다립니다.
                     </p>
                 </motion.div>
             </section>

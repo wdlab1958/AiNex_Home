@@ -8,7 +8,7 @@ const stats = [
     value: 26,
     suffix: '년+',
     label: '보안 전문성',
-    description: 'A3 Security 설립 이래 축적된 보안 노하우',
+    description: 'WDLAB@2023-2026 설립 이래 축적된 보안 노하우',
     icon: '🛡️',
   },
   {

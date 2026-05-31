@@ -1,6 +1,6 @@
 # A3-AiNex & AgentForge Integrated Homepage
 
-A3 Security의 **AiNex(AI Consulting Assistant)**와 **AgentForge(Multi-Agent Platform)**를 소개하는 통합 홈페이지 프로젝트입니다. 이 웹사이트는 기업의 AI 전환(AX)을 지원하고, 안전한 로컬 LLM 기반의 멀티 에이전트 서비스를 시각적으로 매력적인 인터페이스로 소개합니다.
+WDLAB@2023-2026의 **AiNex(AI Consulting Assistant)**와 **AgentForge(Multi-Agent Platform)**를 소개하는 통합 홈페이지 프로젝트입니다. 이 웹사이트는 기업의 AI 전환(AX)을 지원하고, 안전한 로컬 LLM 기반의 멀티 에이전트 서비스를 시각적으로 매력적인 인터페이스로 소개합니다.
 
 > **Last Updated**: 2026-01-10  
 > **Editor**: Brian Lee
@@ -82,7 +82,7 @@ src/
 │   ├── layout.tsx                # 공통 레이아웃
 │   │
 │   ├── about/                    # 회사 소개
-│   │   ├── page.tsx              # A3 Security 소개
+│   │   ├── page.tsx              # WDLAB@2023-2026 소개
 │   │   ├── ainex-division/       # AiNex 사업부 소개
 │   │   └── news/                 # 뉴스 & 공지사항 (모달 지원)
 │   │
@@ -221,7 +221,7 @@ src/
 
 | 항목 | 내용 |
 |------|------|
-| 회사명 | A3 Security Co.,Ltd. |
+| 회사명 | WDLAB@2023-2026 Co.,Ltd. |
 | 대표 | 한재호 |
 | 설립 | 2000년 (26년 업력) |
 | 이메일 | support@ainex.ai |
@@ -230,8 +230,8 @@ src/
 
 ## 📝 라이선스 (License)
 
-This project is proprietary software of A3 Security Co.,Ltd.
+This project is proprietary software of WDLAB@2023-2026 Co.,Ltd.
 
 Planning & Design ; Brian Lee / AI TF TEAM LEADER
 
-© 2026 A3 Security Co.,Ltd. All rights reserved.
+© 2026 WDLAB@2023-2026 Co.,Ltd. All rights reserved.

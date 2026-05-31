@@ -32,7 +32,7 @@ const ConsultingPage = () => {
                         </span>
                     </h1>
                     <p className="text-xl text-gray-400 mb-8 max-w-3xl mx-auto">
-                        26년간 축적된 A3 Security의 보안 컨설팅 노하우와 최신 AI 기술을 결합하여,
+                        26년간 축적된 WDLAB@2023-2026의 보안 컨설팅 노하우와 최신 AI 기술을 결합하여,
                         기업의 안전하고 효과적인 AI 전환을 체계적으로 지원합니다.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -370,7 +370,7 @@ const serviceAreas = [
 const whyChooseUs = [
     {
         title: '26년 보안 전문성',
-        description: 'A3 Security의 정보보호 컨설팅 노하우를 바탕으로 안전한 AI 시스템을 구축합니다.',
+        description: 'WDLAB@2023-2026의 정보보호 컨설팅 노하우를 바탕으로 안전한 AI 시스템을 구축합니다.',
         icon: Shield,
     },
     {

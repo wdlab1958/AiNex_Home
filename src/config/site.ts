@@ -5,14 +5,14 @@ import type { NavConfig, SEOData } from '@/types';
 // ========================================
 export const siteConfig = {
   name: 'A3 AiNex',
-  fullName: 'A3 Security Co.,Ltd. - AiNex & AgentForge',
+  fullName: 'WDLAB@2023-2026 Co.,Ltd. - AiNex & AgentForge',
   description: '데이터 주권 시대의 안전한 AI 전환, 당신의 멀티 에이전트 파트너',
-  url: 'https://ainex.a3sc.co.kr',
+  url: 'https://ainex.wdlab.co.kr',
   ogImage: '/images/og-image.png',
 
   company: {
-    name: 'A3 Security Co.,Ltd.',
-    nameKo: 'A3 Security',
+    name: 'WDLAB@2023-2026 Co.,Ltd.',
+    nameKo: 'WDLAB@2023-2026',
     founded: 2000,
     experience: 26,
     address: '서울특별시 영등포구 선유로9가 10 문래SK V1 1710호',
@@ -21,13 +21,13 @@ export const siteConfig = {
   },
 
   social: {
-    github: 'https://github.com/a3security',
-    linkedin: 'https://linkedin.com/company/a3security',
-    youtube: 'https://youtube.com/@a3security',
+    github: 'https://github.com/wdlab',
+    linkedin: 'https://linkedin.com/company/wdlab',
+    youtube: 'https://youtube.com/@wdlab',
   },
 
   links: {
-    mainSite: 'https://www.a3security.com',
+    mainSite: 'https://www.wdlab.com',
     docs: '/resources/docs',
     blog: '/blog',
     demo: '/contact?type=demo',
@@ -44,7 +44,7 @@ export const navConfig: NavConfig = {
       label: '회사 소개',
       href: '/about',
       children: [
-        { label: 'A3 Security 소개', href: '/about' },
+        { label: 'WDLAB@2023-2026 소개', href: '/about' },
         { label: 'AiNex 사업부', href: '/about/ainex-division' },
         { label: '뉴스 & 공지', href: '/about/news' },
       ],
@@ -148,7 +148,7 @@ export const defaultSEO: SEOData = {
     '로컬 LLM',
     '데이터 보안',
     'RAG',
-    'A3 Security',
+    'WDLAB@2023-2026',
   ],
   ogImage: siteConfig.ogImage,
 };

@@ -23,7 +23,7 @@ const AiNexDivisionPage = () => {
                         </span>
                     </h1>
                     <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-                        데이터 주권 시대, 기업의 안전하고 성공적인 AI 전환을 이끄는 A3 Security의 핵심 조직입니다.
+                        데이터 주권 시대, 기업의 안전하고 성공적인 AI 전환을 이끄는 WDLAB@2023-2026의 핵심 조직입니다.
                     </p>
                 </motion.div>
             </section>
@@ -34,7 +34,7 @@ const AiNexDivisionPage = () => {
                     <div>
                         <h2 className="text-3xl font-bold mb-6">Who We Are</h2>
                         <p className="text-gray-300 leading-relaxed mb-6">
-                            AiNex 사업부는 26년간 축적된 A3 Security의 정보보호 노하우와 최신 AI 기술을 결합하여 탄생했습니다.
+                            AiNex 사업부는 26년간 축적된 WDLAB@2023-2026의 정보보호 노하우와 최신 AI 기술을 결합하여 탄생했습니다.
                             단순한 AI 도입을 넘어, 보안과 거버넌스가 내재화된 '신뢰할 수 있는 AI(Trustworthy AI)' 생태계를 구축하는 것을 목표로 합니다.
                         </p>
                         <div className="flex gap-4">

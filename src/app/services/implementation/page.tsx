@@ -230,7 +230,7 @@ const ImplementationPage = () => {
                     >
                         <h2 className="text-3xl font-bold mb-6">보안 & 컴플라이언스</h2>
                         <p className="text-gray-400 mb-8">
-                            26년간 축적된 A3 Security의 보안 전문성을 바탕으로
+                            26년간 축적된 WDLAB@2023-2026의 보안 전문성을 바탕으로
                             엔터프라이즈급 보안이 내재화된 AI 플랫폼을 구축합니다.
                         </p>
                         <div className="space-y-4">

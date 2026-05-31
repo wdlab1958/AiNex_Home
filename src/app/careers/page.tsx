@@ -360,7 +360,7 @@ const PositionModal = ({
                                 <>
                                     <h4 className="text-lg font-bold text-white mb-2">이 포지션에 관심이 있으신가요?</h4>
                                     <p className="text-gray-400 mb-4 text-sm">
-                                        이력서를 careers@a3sc.co.kr로 보내주시거나, 아래 버튼을 클릭하여 지원해 주세요.
+                                        이력서를 careers@wdlab.co.kr로 보내주시거나, 아래 버튼을 클릭하여 지원해 주세요.
                                     </p>
                                     <div className="flex gap-4">
                                         <button
@@ -381,7 +381,7 @@ const PositionModal = ({
                                             )}
                                         </button>
                                         <a
-                                            href={`mailto:careers@a3sc.co.kr?subject=[지원] ${position.title}`}
+                                            href={`mailto:careers@wdlab.co.kr?subject=[지원] ${position.title}`}
                                             className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 transition-colors font-medium flex items-center gap-2"
                                         >
                                             <Mail className="w-5 h-5" />
@@ -788,7 +788,7 @@ const CareersPage = () => {
                         </span>
                     </h1>
                     <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-                        A3 Security는 26년의 보안 전문성을 바탕으로, 데이터 주권이 보장되는 안전한 AI 세상을 만들어가고 있습니다. 최고의 동료들과 함께 성장할 기회를 잡으세요.
+                        WDLAB@2023-2026는 26년의 보안 전문성을 바탕으로, 데이터 주권이 보장되는 안전한 AI 세상을 만들어가고 있습니다. 최고의 동료들과 함께 성장할 기회를 잡으세요.
                     </p>
                 </motion.div>
             </section>

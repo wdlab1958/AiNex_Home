@@ -180,7 +180,7 @@ const WhitepaperModal = ({
                         <div className="sticky bottom-0 px-6 py-4 border-t border-white/10 bg-[#0d0e10]/95 backdrop-blur-xl">
                             <div className="flex items-center justify-between">
                                 <p className="text-sm text-gray-400">
-                                    © 2026 A3 Security - AiNex Research
+                                    © 2026 WDLAB@2023-2026 - AiNex Research
                                 </p>
                                 <button
                                     onClick={() => onDownload(whitepaper)}
@@ -218,7 +218,7 @@ const WhitepapersPage = () => {
         // Create PDF content
         const pdfContent = `
 ═══════════════════════════════════════════════════════════════════════════════
-                              A3 SECURITY - AINEX RESEARCH
+                            WDLAB@2023-2026 - AINEX RESEARCH
 ═══════════════════════════════════════════════════════════════════════════════
 
 ${whitepaper.title.toUpperCase()}
@@ -251,7 +251,7 @@ ${whitepaper.content}
 
 
 ───────────────────────────────────────────────────────────────────────────────
-                        © 2026 A3 Security - AiNex Research
+                        © 2026 WDLAB@2023-2026 - AiNex Research
                               www.ainex.ai | support@ainex.ai
 ═══════════════════════════════════════════════════════════════════════════════
 `;

@@ -1,7 +1,7 @@
 {
   "name": "a3-ainex-homepage",
   "version": "1.0.0",
-  "description": "A3 Security - AiNex & AgentForge Homepage",
+  "description": "WDLAB@2023-2026 - AiNex & AgentForge Homepage",
   "private": true,
   "scripts": {
     "dev": "next dev -p 3001",

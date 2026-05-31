@@ -154,7 +154,7 @@ const SupportPage = () => {
                             <div>
                                 <h2 className="text-3xl font-bold mb-6">수료증 & 자격증</h2>
                                 <p className="text-gray-400 mb-8">
-                                    교육 과정 수료 시 A3 Security 공인 수료증을 발급하며,
+                                    교육 과정 수료 시 WDLAB@2023-2026 공인 수료증을 발급하며,
                                     고급 과정 이수자에게는 AiNex Certified Professional 자격을 부여합니다.
                                 </p>
                                 <div className="space-y-4">
@@ -447,7 +447,7 @@ const educationFormats = [
 ];
 
 const certificationBenefits = [
-    '교육 과정 수료 시 A3 Security 공인 수료증 발급',
+    '교육 과정 수료 시 WDLAB@2023-2026 공인 수료증 발급',
     '고급 과정 이수자 AiNex Certified Professional 자격 부여',
     '자격 보유자 전용 커뮤니티 및 네트워킹 기회',
     '연간 재인증을 통한 자격 유지 및 역량 업데이트',
